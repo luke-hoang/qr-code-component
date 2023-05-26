@@ -1,6 +1,5 @@
-# QR Code Component
-Thanks for checking out this front-end coding challange.
+# Frontend Mentor - QR code component solution
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+This is a [solution](https://luke-hoang.github.io/qr-code-component/) to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-The challenge was to build out a QR code component.
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
